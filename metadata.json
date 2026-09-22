@@ -1,0 +1,6 @@
+{
+  "name": "Coiffure Top Hair",
+  "description": "Coiffure Top Hair in Wünnewil – Damen- und Herrencoiffeur an der Felsenegg 3, 3184 Wünnewil. Haarschnitte, Styling & Colorationen. Tel: 026 534 10 17.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
